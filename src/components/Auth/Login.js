@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-const Login: React.FunctionComponent = (): JSX.Element => {
+const Login = () => {
   return (
     <div>
       <h1>Login</h1>

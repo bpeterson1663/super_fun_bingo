@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-const AdminContainer: React.FunctionComponent = (): JSX.Element => {
+const AdminContainer = () => {
   return (
     <div>
       <h1>Cards you created</h1>

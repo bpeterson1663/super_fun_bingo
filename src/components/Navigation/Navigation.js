@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Link } from 'react-router-dom'
 
-const Navigation: React.FunctionComponent = (): JSX.Element => {
+const Navigation = () => {
   return (
     <div>
       <Link data-testid="nav_cards-created" to="/admin">
